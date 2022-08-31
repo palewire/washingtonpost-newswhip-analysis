@@ -1,0 +1,49 @@
+[
+  {
+    "key": "washingtonpost.com",
+    "stats": {
+      "fb_total": {
+        "count": 11909,
+        "min": 0.0,
+        "max": 428454.0,
+        "avg": 1143.4734234612479,
+        "sum": 13617625.0,
+        "sum_of_squares": 589512135027.0,
+        "variance": 48193865.374828994,
+        "std_deviation": 6942.180160067081
+      },
+      "twitter": {
+        "count": 9042,
+        "min": 10.0,
+        "max": 73240.0,
+        "avg": 224.5410307454103,
+        "sum": 2030300.0,
+        "sum_of_squares": 12810606800.0,
+        "variance": 1366370.3987256794,
+        "std_deviation": 1168.9184739431914
+      },
+      "pinterest": {
+        "count": 2991,
+        "min": 1.0,
+        "max": 535.0,
+        "avg": 8.363757940488131,
+        "sum": 25016.0,
+        "sum_of_squares": 2177568.0,
+        "variance": 658.087673474005,
+        "std_deviation": 25.65321955377151
+      },
+      "linkedin": {
+        "count": 4835,
+        "min": 1.0,
+        "max": 4134.0,
+        "avg": 33.69017580144778,
+        "sum": 162892.0,
+        "sum_of_squares": 92431924.0,
+        "variance": 17982.226242678506,
+        "std_deviation": 134.0978234076844
+      }
+    },
+    "total": 15810817.0,
+    "total_matched_articles": 11909
+  }
+]
